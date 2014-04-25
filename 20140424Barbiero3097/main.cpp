@@ -65,10 +65,11 @@ int main () {
     int max = 20, //numero massimo
         min = 1, //numero minimo
         dim = 10, //dimensione effettiva array
-        nValCol = 10, //numero colonne
+        nValCol = 3, //numero colonne
         num = 2; //numero per il quale dividiamo
     
     /* La dimensione con il quale ho dichiarato gli array è 500. Per poi agevolare il tutto, l'ho ridotta a 10 tramite variabile*/
+    // L'ultimo esercizio non l'ho fatto in quanto non mi risulta corretto
     
     cout << "1. Genera array casuale compreso tra un massimo ed un minimo";
     cout << endl << endl;
